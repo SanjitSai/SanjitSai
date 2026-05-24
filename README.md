@@ -64,6 +64,9 @@ interests = {
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=crewai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-7C3AED?style=flat-square&logo=meta&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-A8B9CC?style=flat-square&logo=google&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-111111?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Concepts & Paradigms**
 
